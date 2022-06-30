@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/fondo-gt.jpg);
+}
+.gris{
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 2rem;
+    height: 100px;
+    padding-top: 25px;
+}
+
+.grey{
+    background-color: lightgrey;
+    text-align: center;
+    height: 520px;
+    font-size: 2rem;
+}
+
+.imagen{
+    height: 100px;
+}
